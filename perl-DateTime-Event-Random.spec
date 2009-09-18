@@ -9,7 +9,7 @@ Summary:	DateTime::Event::Random - DateTime extension for creating random dateti
 Summary(pl.UTF-8):	DateTime::Event::Random - rozszerzenie DateTime do tworzenia dat losowych
 Name:		perl-DateTime-Event-Random
 Version:	0.03
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
