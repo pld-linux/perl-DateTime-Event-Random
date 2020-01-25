@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	DateTime
 %define	pnam	Event-Random
 Summary:	DateTime::Event::Random - DateTime extension for creating random datetimes
